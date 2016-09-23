@@ -1,0 +1,21 @@
+{
+	"name": "本地文件管理显示优化",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "打开本地文件时以文件夹和文件的形式分列显示。仅对file:///有效。",
+	"browser_action": {
+		"default_icon": "icon.png"
+	},
+	"icons": {
+		"48": "icon48.png",
+		"128": "icon128.png"
+    },
+	"content_scripts": [
+		{
+		  "matches": ["file:///*/"],
+		  "css": ["app.css"],
+		  "js": ["jquery.min.js","app.js"]
+		}
+	],
+	"permissions": [ "tabs", "file:///" ]
+}
