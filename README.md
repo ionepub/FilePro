@@ -6,11 +6,11 @@ A file manage chrome extension like Finder on Mac
 
 安装插件之后，在本地浏览文件夹将优化页面显示。
 
-![FilePro](http://upload-images.jianshu.io/upload_images/2945083-370d6cde63f4b38e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![FilePro](https://dn-shimo-image.qbox.me/Xu1mX5HlDigvO9d7.png!thumbnail)
 
-![FilePro](http://upload-images.jianshu.io/upload_images/2945083-04c46c4df8827242.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![FilePro](https://dn-shimo-image.qbox.me/ClnqxH1tlwsLgII0.png!thumbnail)
 
-![FilePro.gif](http://upload-images.jianshu.io/upload_images/2945083-b17e247b0e67f213.gif?imageMogr2/auto-orient/strip)
+![FilePro](https://dn-shimo-image.qbox.me/jCPNZX4ppXgNYtxJ.gif!thumbnail)
 
 ## 目前兼容的格式
 
