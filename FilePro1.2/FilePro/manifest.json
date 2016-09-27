@@ -1,0 +1,20 @@
+{
+	"name": "本地文件管理显示优化",
+	"version": "1.2",
+	"manifest_version": 2,
+	"description": "打开本地文件时以文件夹和文件的形式分列显示。仅对file:///有效。1.1版本新增对http://d.com/crowdfunding的支持。1.2版修复d.com上无法渲染md文档文件的问题。",
+	"browser_action": {
+		"default_icon": "icon.png"
+	},
+	"icons": {
+		"48": "icon48.png",
+		"128": "icon128.png"
+    },
+	"content_scripts": [
+		{
+		  "matches": ["file:///*/", "http://d.com/crowdfunding/*/"],
+		  "css": ["github-markdown.min.css", "app.css"],
+		  "js": ["jquery.min.js", "marked.min.js", "app.js"]
+		}
+	]
+}
