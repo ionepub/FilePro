@@ -6,11 +6,11 @@ A file manage chrome extension like Finder on Mac
 
 安装插件之后，在本地浏览文件夹将优化页面显示。
 
-![FilePro](https://dn-shimo-image.qbox.me/Xu1mX5HlDigvO9d7.png!thumbnail)
+![FilePro](https://dn-shimo-image.qbox.me/Xu1mX5HlDigvO9d7.png)
 
-![FilePro](https://dn-shimo-image.qbox.me/ClnqxH1tlwsLgII0.png!thumbnail)
+![FilePro](https://dn-shimo-image.qbox.me/ClnqxH1tlwsLgII0.png)
 
-![FilePro](https://dn-shimo-image.qbox.me/jCPNZX4ppXgNYtxJ.gif!thumbnail)
+![FilePro](https://dn-shimo-image.qbox.me/jCPNZX4ppXgNYtxJ.gif)
 
 ## 目前兼容的格式
 
@@ -38,4 +38,24 @@ A file manage chrome extension like Finder on Mac
 ### 其他浏览器
 
 凡带有chrome内核的浏览器一般都支持此插件，如果直接安装crx文件失败，可参考谷歌浏览器安装方法
+
+
+## 版本更新
+
+### 1.3版
+
+- 新增对PDF文档预览支持（基于浏览器）；
+- 对不支持预览的文档新增下载链接，点击链接可直接下载文档；
+- 对mantis（内网，http://d.com:18001/）上缺陷详情页中的图片附件由下载文件改为新窗口打开；
+
+
+
+### 1.2版
+
+- 修复d.com（内网）上无法渲染md文档文件的问题
+
+
+### 1.1版
+
+- 新增对` http://d.com/crowdfunding `目录下的文档预览支持
 
