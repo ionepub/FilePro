@@ -12,7 +12,7 @@
     },
 	"content_scripts": [
 		{
-		  "matches": ["file:///*/", "http://d.com/crowdfunding/*/"],
+		  "matches": ["file:///*/", "http://d.com/crowdfunding/*/", "http://d.com/ytshop/*/"],
 		  "css": ["github-markdown.min.css", "app.css"],
 		  "js": ["jquery.min.js", "marked.min.js", "app.js"]
 		},
