@@ -42,6 +42,10 @@ A file manage chrome extension like Finder on Mac
 
 ## 版本更新
 
+### 1.3版(2017-03-02)
+
+- 新增对d.com/ytshop的支持
+
 ### 1.3版
 
 - 新增对PDF文档预览支持（基于浏览器）；
