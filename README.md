@@ -44,7 +44,7 @@ A file manage chrome extension like Finder on Mac
 
 ### 1.4.1版
 
-- 将对本地文件的支持删掉了，可以在chrome直接拖拽安装，而且再次打开时不会提示了。
+- 将对本地文件的支持删掉了，有需要的可以用这个。
 
 ### 1.4版
 

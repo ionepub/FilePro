@@ -2,7 +2,7 @@
 	"name": "文件管理显示优化",
 	"version": "1.4.1",
 	"manifest_version": 2,
-	"description": "1.1版本新增对http://d.com/crowdfunding的支持。1.2版修复d.com上无法渲染md文档文件的问题。1.3版新增对PDF文档预览支持，不支持预览的文档新增下载链接，mantis上缺陷详情页中的图片附件改为新窗口打开。1.4版将mantis的详情页注释调整到了右侧。1.4.1版将对本地文件的支持删掉了，可以在chrome直接拖拽安装，而且再次打开时不会提示了。",
+	"description": "1.1版本新增对http://d.com/crowdfunding的支持。1.2版修复d.com上无法渲染md文档文件的问题。1.3版新增对PDF文档预览支持，不支持预览的文档新增下载链接，mantis上缺陷详情页中的图片附件改为新窗口打开。1.4版将mantis的详情页注释调整到了右侧。1.4.1版将对本地文件的支持删掉了，有需要的可以用这个。",
 	"browser_action": {
 		"default_icon": "icon.png"
 	},
