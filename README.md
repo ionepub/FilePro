@@ -42,6 +42,16 @@ A file manage chrome extension like Finder on Mac
 
 ## 版本更新
 
+### 1.4.1版
+
+- 将对本地文件的支持删掉了，可以在chrome直接拖拽安装，而且再次打开时不会提示了。
+
+### 1.4版
+
+- 将mantis的详情页注释调整到了右侧
+
+![mantis注释](https://dn-shimo-image.qbox.me/V9DsLdgxEIIwbhCv/image.png)
+
 ### 1.3版(2017-03-02)
 
 - 新增对d.com/ytshop的支持
